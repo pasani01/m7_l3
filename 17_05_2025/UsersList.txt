@@ -1,0 +1,8 @@
+User1 :(Super User)
+	username: test
+	Password: test
+
+
+User2 :
+	Username: test1
+	Password: test1
